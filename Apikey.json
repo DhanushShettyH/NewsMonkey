@@ -1,0 +1,8 @@
+{
+    "Comment new api key": "https://newsapi.org/v2/top-headlines?country=in&apiKey=e83610bb4d6341948488a754a3b2385a",
+    "Comment another api key": "https://newsapi.org/v2/top-headlines?country=in&apiKey=09d3ee055f3c4ddaba9ce83c339a2b13",
+    "Comment another2 api key": "https://newsapi.org/v2/top-headlines?country=in&apiKey=0d89b3b4124441f8bcf251237d7749f6",
+
+    "status": "ok",
+    "totalResults": 6
+}
