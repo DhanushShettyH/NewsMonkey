@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/NewsMonkey/static/css/main.c0b8edf4.css",
+    "main.js": "/NewsMonkey/static/js/main.8f4c712c.js",
+    "static/js/787.a5fd8267.chunk.js": "/NewsMonkey/static/js/787.a5fd8267.chunk.js",
+    "static/media/health.gif": "/NewsMonkey/static/media/health.8cb5a83df4360de3ddef.gif",
+    "static/media/health_white.gif": "/NewsMonkey/static/media/health_white.064a5ebb1bf40e033c82.gif",
+    "static/media/business.gif": "/NewsMonkey/static/media/business.75bb6d649da335237e37.gif",
+    "static/media/general.gif": "/NewsMonkey/static/media/general.69856edb8d043f331761.gif",
+    "static/media/business_white.gif": "/NewsMonkey/static/media/business_white.d36dfa3a4d36ddf08c5b.gif",
+    "static/media/general_white.gif": "/NewsMonkey/static/media/general_white.75789ba2a2285d7e6235.gif",
+    "static/media/spinnerblue.gif": "/NewsMonkey/static/media/spinnerblue.019f60102bb67d7f9bde.gif",
+    "static/media/entertainment_white.gif": "/NewsMonkey/static/media/entertainment_white.8dbdb569ae3bb293cf37.gif",
+    "static/media/technology.gif": "/NewsMonkey/static/media/technology.93294774c80a08911c7b.gif",
+    "static/media/entertainment.gif": "/NewsMonkey/static/media/entertainment.adc1236941a11f13589d.gif",
+    "static/media/science.gif": "/NewsMonkey/static/media/science.3ab78237e886d0cc72eb.gif",
+    "static/media/technology_white.gif": "/NewsMonkey/static/media/technology_white.c1261b92e7513089d349.gif",
+    "static/media/science_white.gif": "/NewsMonkey/static/media/science_white.a7354f3d0d900b80194b.gif",
+    "static/media/sports.gif": "/NewsMonkey/static/media/sports.1c5b89064759607deb7f.gif",
+    "static/media/sports_white.gif": "/NewsMonkey/static/media/sports_white.df4d060c1b088b8b574b.gif",
+    "index.html": "/NewsMonkey/index.html",
+    "main.c0b8edf4.css.map": "/NewsMonkey/static/css/main.c0b8edf4.css.map",
+    "main.8f4c712c.js.map": "/NewsMonkey/static/js/main.8f4c712c.js.map",
+    "787.a5fd8267.chunk.js.map": "/NewsMonkey/static/js/787.a5fd8267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b8edf4.css",
+    "static/js/main.8f4c712c.js"
+  ]
+}
