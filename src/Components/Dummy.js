@@ -308,7 +308,8 @@ export default function Dummy(props) {
   
   return (
     <>
-      <h2 className='text-center mb-3' style={{ marginTop: "90px", stylemode }}>NewsMonkey - Top {capitalizfun(props.category)}  Headlines</h2>
+    <div style={{marginTop: "90px"}}> </div>
+      <h2 className='text-center mb-3' style={stylemode}>NewsMonkey - Top {capitalizfun(props.category)}  Headlines</h2>
       {state.loading && <Spinner />}
 
         <div className="container-sm">
