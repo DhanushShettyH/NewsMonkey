@@ -92,8 +92,8 @@ const Navbar = (props) => {
           <Link className="nav-link " aria-current="page" to="/about">{props.about}</Link>
         </li> */}
 
-            {/* <li className="nav-item">
-              <Link className="nav-link " onClick={() => handlelogo('g')} aria-current="page" to="/">Home</Link></li> */}
+            <li className="nav-item">
+              <Link className="nav-link " onClick={() => handlelogo('g')} aria-current="page" to="/">Home</Link></li>
             <li className="nav-item">
               <Link className="nav-link " onClick={() => handlelogo('b')} to="/business">Business</Link></li>
             <li className="nav-item">

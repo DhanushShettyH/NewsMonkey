@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Alert from "./Components/Alert";
 import News from "./Components/News";
 import LoadingBar from "react-top-loading-bar";
-import Dummy from "./Components/Dummy";
 
 // rafce
 
@@ -53,7 +52,6 @@ function App() {
       />
       <Navbar title="Navigation" about="About Text" mode={mode} toggleMode={togglemode} />
       <Alert alert={alert} />
-      <Dummy  setProgress={setProgress} key="general" mode={mode} articleSize={articlesize} apiKey={apikey} country="in" category="general" />
 
 
 
@@ -72,8 +70,8 @@ function App() {
 
         {/* when you route one link to other react not remount component to remount same component with updated props use unique key */}
 
-        {/* <Route path="/" exact element={<News setProgress={setProgress} key="general" mode={mode} articleSize={articlesize} apiKey={apikey} country="in" category="general" />}>
-        </Route> */}
+        <Route path="/" exact element={<News setProgress={setProgress} key="general" mode={mode} articleSize={articlesize} apiKey={apikey} country="in" category="general" />}>
+        </Route>
 
         <Route path="/business" exact element={<News setProgress={setProgress} key="business" mode={mode} articleSize={articlesize} apiKey={apikey} country="in" category="business" />}>
         </Route>
